@@ -1,4 +1,4 @@
 {
   "port": 5000,
-  "mongoURI": ""
+  "mongoURI": "mongodb+srv://vikos:dbrf23@cluster0.rayl9.mongodb.net/app?retryWrites=true&w=majority"
 }
